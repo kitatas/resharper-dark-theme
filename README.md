@@ -1,0 +1,1 @@
+# resharper-dark-theme
