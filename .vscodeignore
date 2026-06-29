@@ -1,0 +1,13 @@
+# Source & build config (compiled output in out/ is what ships)
+tsconfig.json
+
+# Editor / tooling / VCS metadata
+.idea/**
+.vscode/**
+.claude/**
+.gitignore
+.vscodeignore
+build.sh
+
+# Misc
+package-lock.json

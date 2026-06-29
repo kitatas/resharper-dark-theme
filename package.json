@@ -1,0 +1,26 @@
+{
+  "name": "resharper-dark-theme",
+  "displayName": "ReSharper Dark Theme",
+  "version": "1.0.0",
+  "description": "ReSharper Dark Theme for Visual Studio Code",
+  "publisher": "kitatas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kitatas/resharper-dark-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ReSharper Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/resharper-dark.json"
+      }
+    ]
+  }
+}
